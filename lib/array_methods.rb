@@ -5,7 +5,7 @@ counter = 0
 
 
 while counter <= array.length
-
+ HEAD
 index = array[0]
 
 
